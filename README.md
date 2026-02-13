@@ -1,4 +1,4 @@
-# TharangRepo
+# WIKIMEDIA PROFILE BUILDER
 
 A modern **Wiki Profile Builder** application that allows users to fetch, edit, and generate Wikitext for their Wikimedia profiles across multiple wiki projects.
 
